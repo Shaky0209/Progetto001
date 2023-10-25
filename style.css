@@ -17,6 +17,7 @@
     border-top: 1px solid rgb(241, 177, 56);
     font-size: small;
     text-align: center;
+    padding: 15px;
 }
 
 .column{
@@ -30,6 +31,7 @@
 
 .h1 h1{
     text-align: center;
+    margin:0px;   
 }
 
 .pizza{
